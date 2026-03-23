@@ -3,8 +3,8 @@
 An open-source place renderer for the version 0.69.0.646 Roblox Studio version (compatible with later versions, this was for December 2012 originally)  
 You can get this client here: https://archive.org/details/roblox-studio_20250323  
 
--On this version, "band aid ass fix" from watrabi was added which allows everything to load, preventing place renders from rendering without having most of it's bricks.
--Image uploading has been added back, which was removed in unhappyworld's fork of rbxRenderHook. However image uploads happen from the DLL and not from the lua command you execute in the client. Rendering will also close the client automatically to make it easier for renderer arbiters to mark the job done.
+- On this version, "band aid ass fix" from watrabi was added which allows everything to load, preventing place renders from rendering without having most of it's bricks.
+- Image uploading has been added back, which was removed in unhappyworld's fork of rbxRenderHook. However image uploads happen from the DLL and not from the lua command you execute in the client. Rendering will also close the client automatically to make it easier for renderer arbiters to mark the job done.
 
 ## Usage  
 Compile the project in **DEBUG** mode (Release mode could cause issues)  
